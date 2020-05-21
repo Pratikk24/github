@@ -1,0 +1,3 @@
+Branches allow you to move back and forth between the different states/versions of a project.
+
+
